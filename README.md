@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F73B&background=000000&center=true&vCenter=true&multiline=true&width=435&lines=HYPER+GHOST" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F73B&background=000000&center=true&vCenter=true&multiline=true&width=435&lines=Alpha+Soft" alt="Typing SVG" /></a>
 
 # -Music-Finder
 
